@@ -1,0 +1,4 @@
+D:\Programing\Lab_Works\Labs (3 semestr)\KR\KR\x64\Debug\KR.vcxproj.AssemblyReference.cache
+D:\Programing\Lab_Works\Labs (3 semestr)\KR\KR\x64\Debug\KR.vcxproj.SuggestedBindingRedirects.cache
+D:\Programing\Lab_Works\Labs (3 semestr)\KR\KR\x64\Debug\KR.MyForm.resources
+D:\Programing\Lab_Works\Labs (3 semestr)\KR\KR\x64\Debug\KR.vcxproj.GenerateResource.cache

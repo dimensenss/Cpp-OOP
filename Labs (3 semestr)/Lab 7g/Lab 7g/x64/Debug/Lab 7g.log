@@ -1,0 +1,5 @@
+﻿  Lab 7g.cpp
+  Source.cpp
+D:\Programing\Lab_Works\Labs (3 semestr)\Lab 7g\Lab 7g\Source.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Lab 7g.vcxproj -> D:\Programing\Lab_Works\Labs (3 semestr)\Lab 7g\x64\Debug\Lab 7g.exe

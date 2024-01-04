@@ -1,0 +1,7 @@
+﻿  Lab 11b.cpp
+  Source.cpp
+D:\Programing\Lab_Works\Labs  (2 semester)\Lab 11b\Lab 11b\Source.cpp(10,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Programing\Lab_Works\Labs  (2 semester)\Lab 11b\Lab 11b\Source.cpp(22,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Programing\Lab_Works\Labs  (2 semester)\Lab 11b\Lab 11b\Source.cpp(24,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  Lab 11b.vcxproj -> D:\Programing\Lab_Works\Labs  (2 semester)\Lab 11b\x64\Debug\Lab 11b.exe

@@ -1,0 +1,4 @@
+﻿  Lab 10b.cpp
+D:\Programing\Lab_Works\Labs  (2 semester)\Lab 10b\Lab 10b\Lab 10b.cpp(17,17): warning C4101: temp: неиспользованная локальная переменная
+D:\Programing\Lab_Works\Labs  (2 semester)\Lab 10b\Lab 10b\Lab 10b.cpp(46,17): warning C4101: temp: неиспользованная локальная переменная
+  Lab 10b.vcxproj -> D:\Programing\Lab_Works\Labs  (2 semester)\Lab 10b\x64\Debug\Lab 10b.exe

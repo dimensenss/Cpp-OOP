@@ -1,0 +1,7 @@
+﻿  Lab 8b.cpp
+D:\Programing\Lab_Works\Labs (3 semestr)\Lab 8b\Lab 8b\Lab 8b.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+D:\Programing\Lab_Works\Labs (3 semestr)\Lab 8b\Lab 8b\Source.cpp(64): warning C4715: Array<int>::operator[]: значение возвращается не при всех путях выполнения
+D:\Programing\Lab_Works\Labs (3 semestr)\Lab 8b\Lab 8b\Source.cpp(80): warning C4715: Array<int>::operator(): значение возвращается не при всех путях выполнения
+  Lab 8b.vcxproj -> D:\Programing\Lab_Works\Labs (3 semestr)\Lab 8b\x64\Debug\Lab 8b.exe

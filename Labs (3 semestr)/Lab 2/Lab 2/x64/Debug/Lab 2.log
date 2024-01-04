@@ -1,0 +1,8 @@
+﻿  Lab 2.cpp
+D:\Programing\Lab_Works\Labs (3 semestr)\Lab 2\Lab 2\Lab 2.cpp(5,7): warning C4101: type: неиспользованная локальная переменная
+D:\Programing\Lab_Works\Labs (3 semestr)\Lab 2\Lab 2\Lab 2.cpp(7,8): warning C4101: count: неиспользованная локальная переменная
+  Source.cpp
+D:\Programing\Lab_Works\Labs (3 semestr)\Lab 2\Lab 2\Source.cpp(75,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programing\Lab_Works\Labs (3 semestr)\Lab 2\Lab 2\Source.cpp(76,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Lab 2.vcxproj -> D:\Programing\Lab_Works\Labs (3 semestr)\Lab 2\x64\Debug\Lab 2.exe

@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\Programing\Lab_Works\Labs (3 semestr)\KR\KR\Header.h(54,17): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programing\Lab_Works\Labs (3 semestr)\KR\KR\MyForm.h(10,10): warning C4398: salon: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+D:\Programing\Lab_Works\Labs (3 semestr)\KR\KR\MyForm.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KR.vcxproj -> D:\Programing\Lab_Works\Labs (3 semestr)\KR\x64\Debug\KR.exe
